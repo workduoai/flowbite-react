@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚧 flowbite-react (unreleased) 🚧</h1>
+  <h1>🚧 flowbite-react (unreleased version) 🚧</h1>
   <p>
     <a href="https://flowbite-react.com">
       <img alt="Flowbite - Tailwind CSS components" width="350" src=".github/assets/flowbite-react-github.png">
